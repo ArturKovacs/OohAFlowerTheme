@@ -60,7 +60,7 @@
 		"notificationLink.foreground": "#efefef",
 		"panel.background": "#eae0ef",
 		"panelTitle.activeBorder": "#efefef",
-		"pickerGroup.foreground": "#efefef",
+		"pickerGroup.foreground": "#8339c9", // This is also the colour of the "quick actions" titles, eg the "More Actions..." text
 		"progressBar.background": "#efefef",
 		"scrollbar.shadow": "#f5f0f9",
 		"scrollbarSlider.activeBackground": "#bc9dc6",
@@ -144,6 +144,7 @@
 		//"editorHoverWidget.border": "#dcd4e4",
 		//"editorHoverWidget.foreground": "#616161",
 		//"editorHoverWidget.statusBarBackground": "#ded5e8",
+		"editorHoverWidget.highlightForeground": "#8339c9",
 		//"editorIndentGuide.background": "#e4d9ec",
 		//"editorInfo.foreground": "#75beff",
 		//"editorLightBulb.foreground": "#ddb100",
